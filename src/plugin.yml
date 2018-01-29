@@ -1,0 +1,7 @@
+main: com.infxnty.CommandTools.Main
+name: CommandTools
+version: 1.0
+description: Block commands as well as add a custom unknown command message!
+commands:
+  commandtools:
+    aliases: [ct]

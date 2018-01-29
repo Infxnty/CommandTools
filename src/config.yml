@@ -1,0 +1,22 @@
+## BLOCKED COMMANDS ##
+blockedcmds:
+  - 'pl'
+  - '?'
+  - 'plugins'
+  - 'bukkit:pl'
+  - 'icanhasbukkit'
+  - 'reload'
+  - 'rl'
+  - 'stop'
+
+## MESSAGES ##
+prefix: '&8[&3CT&8] &7» '
+noperm: '&7Invalid permission!'
+reloaded: '&7Successfully reloaded the configuration file!'
+unknown: '&7Unknown command.'
+
+## PERMISSIONS ##
+bypassperm: 'commandtools.bypass'
+addblockedcmds: 'commandtools.add'
+helpperm: 'commandtools.help'
+reloadperm: 'commandtools.reload'
